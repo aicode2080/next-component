@@ -1,0 +1,44 @@
+{
+    "index": {
+        "title": "Next-component",
+        "desc": "基于nextjs ui组件库",
+        "log": {
+            "title": "Next-Admin 进程规划",
+            "1": "Next + antd5基础工程方案",
+            "2": "国际化语言支持",
+            "3": "数据监控 / 数据大盘 / 业务列表页面",
+            "5": "思维导图 / 流程图 / 3D可视化 / 文档编辑 / 拖拽搭建",
+            "6": "图表编辑器",
+            "7": "AI智能体"
+        },
+        "login": "登陆",
+        "wep": "flowmix/doc文档引擎",
+        "flow": "工作流引擎"
+    },
+    "global": {
+        "technological exchanges": "技术交流",
+        "dashboard": "数据大盘",
+        "customChart": "自定义报表",
+        "rpa": "可视化流程编排",
+        "drawio": "流程图编辑器",
+        "monitor": "数据监控",
+        "userManage": "用户管理",
+        "formEngine": "表单引擎",
+        "board": "办公白板",
+        "orderList": "订单列表",
+        "resource": "资产管理",
+        "dragMode": "拖拽搭建",
+        "agents": "AI智能问答",
+        "excel": "电子表格",
+        "chart": "图表制作",
+        "mdDoc": "MD编辑器",
+        "outlink": "多模态文档引擎（外链）"
+    },
+    "user": {
+        "userList": "用户列表"
+    },
+    "404": {
+        "tip": "next-admin: 您访问的页面不存在",
+        "goBack": "返回首页"
+    }
+}
