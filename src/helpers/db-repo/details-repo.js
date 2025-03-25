@@ -1,5 +1,5 @@
 import { db } from '..'
-import Details from 'models/Details'
+import Details from '@/models/Details'
 
 const getAll = async () => {
   await db.connect()
