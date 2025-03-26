@@ -4,6 +4,11 @@ import { errorHandler, jwtMiddleware, validateMiddleware, identityMiddleware } f
 
 export { apiHandler }
 
+/**
+ * Checks if the given request path is a public route that doesn't require authentication
+ * @param {Request} req - The request object containing method and URL information
+ * @returns {boolean} True if the path is public, false otherwise
+ */
 function isPublicPath(req) {
   // public routes that don't require authentication
   const publicPaths = ['POST:/api/auth/login', 'POST:/api/auth/logout', 'POST:/api/auth/register']
