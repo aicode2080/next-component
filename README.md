@@ -44,3 +44,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 4. react
 5. 多语言处理
 6. 组件化
+7. rust 核心模块编写
